@@ -1,0 +1,47 @@
+
+body { 
+    background: rgb(222, 214, 214);  /* cor de fundo do site->*/
+    margin-left: 100px;   /* margem a esquerda do site */     
+    margin-right: 200px;   /* margem a direita final de texto */ 
+
+}
+header{
+    margin-top: 70px; /* espaço distante do menu cabeçario reader */
+}
+
+
+h1 { 
+    color: red;  /* cor do titulo do h1 */
+    font-family: fantasy;   
+}
+
+h2{
+    font-family: fantasy;  /* fonte da letra do h2 */
+}
+
+p{
+    font-size: 18px; /*tamanho da letra dos P */
+}
+
+footer{
+    margin-bottom: 30px;
+}
+
+section{
+    margin-bottom: 50px;
+    
+}
+
+
+.img_padrao{   /*para as class que foram criadas para as imagens (class="img_padrao" */
+    margin-bottom: 20px;
+    width: 300px; /*tamanho das imagens*/
+}
+
+.logo{  /*para as class que foram criadas para logo (class="logo" */
+    width: 30px;
+}
+/*margin-left: tamanho da margem que eu quero a esquerda
+margin-right: distancia que eu quero a direita
+margin-top: distancia da margem a cima do elemento
+margin-bottom:distancia a baixo do elemento */
